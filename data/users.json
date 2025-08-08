@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin-1",
+    "username": "admin",
+    "password": "$2b$10$tWMQ/SyU4p/UotDgTv9AeO3urr54SrWz1fhCJUxPch5ClrNNge69S",
+    "createdAt": "2025-08-07T17:03:32.277Z"
+  },
+  {
+    "id": "manager-1",
+    "username": "manager",
+    "password": "$2b$10$p5c4899ZHWwfMKiDm5eUuOrYBLNGtrzZKJsFJbwCYZ3Z2MwtjXO4a",
+    "createdAt": "2025-08-07T17:03:32.351Z"
+  },
+  {
+    "id": "user-1754586212431-7f7hpk2rb",
+    "username": "Jessa",
+    "password": "$2b$10$3bgB5a24wYy7UQXM.k.POOCHCWh9IxBd.zqlDh9eJDrZYrOedcP9G",
+    "email": "gysabelpastelero18@gmail.com",
+    "createdAt": "2025-08-07T17:03:32.431Z",
+    "lastLogin": "2025-08-08T02:55:54.819Z"
+  }
+]
